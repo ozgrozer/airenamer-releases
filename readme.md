@@ -1,6 +1,6 @@
 # AI Renamer Releases
 
-Welcome to the official **AI Renamer Releases** repository! This repo contains the latest versions of **AI Renamer**, a smart file renaming desktop app powered by AI.
+Welcome to the official **AI Renamer Releases** repository. This repo contains the latest versions of **AI Renamer**, a smart file renaming desktop app powered by AI.
 
 ## 📥 Download
 
@@ -18,4 +18,4 @@ See the [Releases](https://github.com/ozgrozer/airenamer-releases/releases) page
 
 ## 📩 Feedback & Support
 
-For any feedback, issues, or support, please visit [airenamer.app](https://airenamer.app).
+For any feedback, issues, or support, please visit [airenamer.app/#contact](https://airenamer.app/#contact).
